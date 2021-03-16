@@ -14,7 +14,7 @@ My name is Maxim and I'm a frontend software engineer. I'm from Russia, living i
   <table>
   <tr>
       <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=mastekator&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=buefy&icon_color=5194f0&bg_color=fff" /></td>
-      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastekator&hide=html&layout=compact&hide_border=true&hide_title=true&theme=buefy&icon_color=5194f0&bg_color=fff" /></td>
+      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastekator&hide=html&layout=compact&hide_border=true&hide_title=true&theme=buefy&icon_color=5194f0&bg_color=fff"/></td>
   </tr>   
 </table>
 </p>
