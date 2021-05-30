@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/extremecodetv/extremecodetv/master/wave.gif" width="25px"> Hi there! 
 
-My name is Maxim and I'm a frontend software engineer. I'm from Russia, living in Moscow. 
+My name is Maxim and I'm a frontend software engineer. I'm from Russia, currently living in Indonesia. 
 
 ### 🔧 Technologies & Tools
 
